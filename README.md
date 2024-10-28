@@ -22,7 +22,7 @@ All demo code for my Udemy course [**Programming in Snowflake Masterclass 2024 H
 
 (6) A new *venv/* folder was created (and already added to *.gitignore*!). Select the new virtual environment (your prompt should get a *"(venv)"* prefix):  
 
-**`venv/scripts/activate`**  
+**`C:\Workspaces\PythonEnv\venv\Scripts>activate`**  
 
 (7) Install all Python dependencies for this project with:  
 
